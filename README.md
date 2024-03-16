@@ -4,3 +4,4 @@ Realizo un chatbot por medio de asistencia de la IA ChatGPT  llegando a resultad
 1. ubicarse sobre la carpeta
 2. crear entorno virtual python -m venv openai-env 
 3. entrar al en el entorno virtual openai-env\Scripts\activate
+4. installar librerias pip install openai ipykernel pandas requests tiktoken
